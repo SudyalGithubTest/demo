@@ -1,1 +1,2 @@
 this is version 1 of file2.
+this is version-2 of file2.
